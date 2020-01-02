@@ -27,4 +27,5 @@ npm run dev
 _Note: open up the console in the browser to see the app in action. If you'd like to interact with it, refresh the browser window with the console open so the debugger will trigger._
 
 **Build the app:** `npm run build`
+
 **Run tests:** `npm run test`
